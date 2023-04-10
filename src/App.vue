@@ -1,17 +1,16 @@
 <template>
   <div id="app">
-    <img alt="Vue logo" src="./assets/logo.png">
-    <HelloWorld msg="Welcome to Your Vue.js App"/>
+    <balance-wheel></balance-wheel>
   </div>
 </template>
 
 <script>
-import HelloWorld from './components/HelloWorld.vue'
+import BalanceWheel from './components/BalanceWheel.vue'
 
 export default {
   name: 'App',
   components: {
-    HelloWorld
+    BalanceWheel
   }
 }
 </script>
