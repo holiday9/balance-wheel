@@ -1,4 +1,4 @@
-# jsexplorer
+# balance-wheel
 
 ## Project setup
 ```
